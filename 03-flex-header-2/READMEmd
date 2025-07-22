@@ -1,0 +1,28 @@
+# Flexbox Exercise 03 - Another Common Header Style
+
+This exercise is part of the CSS Foundations course and focuses on building a common header layout using Flexbox.
+
+## ✅ Goal
+
+Recreate a responsive and horizontally-aligned header that:
+
+- Aligns all items vertically centered inside the header.
+- Has 8px padding between header content and the edge of the container.
+- Has left-aligned and right-aligned groups of items with 16px spacing between them.
+- Uses **only Flexbox** for layout (no floats, positioning, or inline-block).
+- Uses nested flex containers to separate left and right sections.
+
+## 📂 What you’ll learn
+
+- Nested flex containers.
+- Managing horizontal spacing between items.
+- Proper vertical alignment within a flex container.
+- Structuring HTML to support complex Flexbox layouts.
+
+## 🛠 Instructions
+
+- You may edit the HTML structure to group left and right items.
+- Use Flexbox to arrange items as shown in the provided images.
+- Do not use margin hacks or absolute positioning — stick to clean flex layout!
+
+

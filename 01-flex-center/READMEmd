@@ -1,0 +1,11 @@
+# Flexbox - Center This Div
+
+This mini project demonstrates how to center a `div` inside a container using **Flexbox**.  
+It's a very common and useful layout technique in modern web development.
+
+## ✅ Goal
+
+Center the red `div` both **horizontally** and **vertically** within the blue container, using only Flexbox.
+
+
+
