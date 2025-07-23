@@ -1,0 +1,22 @@
+# Flexbox Full Page Layout
+
+This exercise demonstrates how to use Flexbox to structure a complete web page layout including a header, footer, and centered main content.
+
+## 📌 Objectives
+- Create a responsive full-page layout using Flexbox
+- Position header at the top and footer at the bottom of the viewport
+- Center main content vertically and horizontally
+- Distribute links to opposite sides of the header and footer
+- Add proper spacing and styling to match a clean UI
+
+## 💡 Key Flex Concepts Used
+- `display: flex` with `flex-direction: column`
+- `justify-content` and `align-items`
+- `gap`, `padding`, and spacing utilities
+- Removing default styles from lists and links
+
+## ✅ Self Check
+- Header and footer are sticky at top and bottom
+- Spacing and alignment between all elements is correct
+- Input and buttons are centered and styled properly
+- No floats, inline-block, or absolute positioning used
