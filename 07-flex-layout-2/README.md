@@ -24,4 +24,5 @@ This exercise implements a classic and highly common website layout using Flexbo
 - Used `flex-wrap` on the cards container for responsive grid layout.
 - Sidebar was prevented from shrinking using `flex-shrink: 0`.
 
+![alt text](image.png)
 
